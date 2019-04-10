@@ -15,4 +15,4 @@ What things you need to install the software and how to install them. For now, m
 
 ## Authors
 
-* **Quincey Hickok** - *Initial work* - [Quincey](https://youtube.com)
+* **Quincey Hickok** - *Initial work* - [Quincey](https://www.history.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Ch_406%2Cq_auto:good%2Cw_620/MTU3ODc5MDg2NzA1OTQ0Mjg3/portrait-of-john-quincy-adams.jpg)
